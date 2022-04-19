@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sijan Regmi</h1>
 <h3 align="center">A Passionate Tech Geek from Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sijanregmi" alt="sijanregmi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/itsmesijan" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesijan?logo=twitter&style=for-the-badge" alt="itsmesijan" /></a> </p>
 
 - 🔭 I’m currently working on [Something](https://github.com/sijanregmi)
