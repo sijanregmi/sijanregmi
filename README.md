@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sijan Regmi</h1>
-<h3 align="center">A Passionate Tech Geek from Nepal</h3>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=30&duration=4000&pause=500&color=F7F7F7&center=true&width=435&lines=Hey+%F0%9F%91%8B;Its+Me+Sijan+;A+Passionate+Tech+Geek+;I+am+Web+Developer;I+am+Digital+Marketer;I+am+Freelancer" alt="Typing SVG" /></a></h1>
+
 
 <p align="left"> <a href="https://twitter.com/itsmesijan" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesijan?logo=twitter&style=for-the-badge" alt="itsmesijan" /></a> </p>
 
