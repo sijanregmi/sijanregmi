@@ -1,6 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=30&duration=4000&pause=500&color=F7F7F7&center=true&width=435&lines=Hey+%F0%9F%91%8B;Its+Me+Sijan+;A+Passionate+Tech+Geek+;I+am+Web+Developer;I+am+Digital+Marketer;I+am+Freelancer" alt="Typing SVG" /></a></h1>
 
-
 <p align="left"> <a href="https://twitter.com/itsmesijan" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesijan?logo=twitter&style=for-the-badge" alt="itsmesijan" /></a> </p>
 
 - 🔭 I’m currently working on [Something](https://github.com/sijanregmi)
@@ -8,6 +7,8 @@
 - 🖇️ Website Link [Sijan Regmi](https://sijanregmi.com.np/)
 
 - 📫 How to reach me **itsmesijanregmi@gmail.com**
+
+<img src="https://thumbs.gfycat.com/LividPleasedAffenpinscher-max-1mb.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
